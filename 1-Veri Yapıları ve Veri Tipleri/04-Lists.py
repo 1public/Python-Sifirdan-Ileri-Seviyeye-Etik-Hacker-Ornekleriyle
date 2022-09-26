@@ -1,5 +1,3 @@
-from hashlib import new
-
 
 my_string = "github"
 
