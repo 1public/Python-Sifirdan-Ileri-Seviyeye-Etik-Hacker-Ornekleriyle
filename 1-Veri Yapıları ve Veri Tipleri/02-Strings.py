@@ -1,9 +1,6 @@
 # Tek tırnak yerine çift tırnak koymak daha doğru, tek tırnağı dil bilgisi kurallarında daha çok kullanıyoruz
 #  i'm a pilot
 
-from operator import le
-
-
 print("hello world")
 print('hello')
 
