@@ -1,5 +1,3 @@
-from os import R_OK
-
 
 print(5+6)
 print(5-6)
